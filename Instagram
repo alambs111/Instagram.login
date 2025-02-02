@@ -1,0 +1,2 @@
+./skipfish --auth-form https://www.instagram.com/accounts/login/ \ --auth-user myuser \ --auth-pass mypass \ --auth-verify-url http://example.org/profile \ [...other options...]
+
